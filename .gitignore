@@ -1,0 +1,4 @@
+# Archivos no necesarios en el github
+__pycahe__
+api
+database.sqlite
